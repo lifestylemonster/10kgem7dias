@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CTT",
-    "currentPage": "fbq)returnn=f.fbq=function(){n.callMethod?   n.callMethod.apply(n,arguments)n.queue.push(arguments)}   if(!f._fbq)f._fbq=nn.push=nn.loaded=!0n.version=2.0   n.queue=[]t=b.createElement(e)t.async=!0   t.src=vs=b.getElementsByTagName(e)[0]   s.parentNode.insertBefore(t,s)}(window, document,script,   httpsconnect.facebook.neten_USfbevents.js)   fbq(init, 300031607857659)   fbq(track, PageView) script noscriptimg height=1 width=1 style=displaynone   src=httpswww.facebook.comtr?id=300031607857659&ampev=PageView&ampnoscript=1 noscript !-- End Facebook Pixel Code --index.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,10 +52,11 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
-    "fbq)returnn=f.fbq=function(){n.callMethod?   n.callMethod.apply(n,arguments)n.queue.push(arguments)}   if(!f._fbq)f._fbq=nn.push=nn.loaded=!0n.version=2.0   n.queue=[]t=b.createElement(e)t.async=!0   t.src=vs=b.getElementsByTagName(e)[0]   s.parentNode.insertBefore(t,s)}(window, document,script,   httpsconnect.facebook.neten_USfbevents.js)   fbq(init, 300031607857659)   fbq(track, PageView) script noscriptimg height=1 width=1 style=displaynone   src=httpswww.facebook.comtr?id=300031607857659&ampev=PageView&ampnoscript=1 noscript !-- End Facebook Pixel Code --index.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
